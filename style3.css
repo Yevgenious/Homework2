@@ -17,6 +17,14 @@ body{
     background:  rgba(0, 170, 238, 0.5);
 }
 
+.meny p{
+    text-align: center;
+}
+
+.content{
+    margin-left: 10%;
+}
+
 
 .footer{
     width: 90%;
@@ -26,4 +34,8 @@ body{
     background: darkgrey;
     -webkit-border-top-right-radius: 10px;
     -webkit-border-top-left-radius: 10px;
+}
+
+.footer p{
+    text-align: center;
 }

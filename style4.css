@@ -17,14 +17,14 @@ body{
     height: 80%;
     display: inline-block;
     position: relative;
-    margin-top: 10%;
+    top: 10%;
     margin-left: 5px;
 }
 
 .header #rightimg{
     left: 86%;
     margin-right: 5px;
-    margin-top: 10%;
+    margin-left: 0%;
 }
 
 .text #left{
