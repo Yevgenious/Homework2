@@ -1,0 +1,29 @@
+.header{
+    width: 90%;
+    margin-right: 5%;
+    margin-left: 5%;
+    height: 15%;
+    border-radius: 0px 0px 10px 10px;
+    background: chocolate;
+}
+body{
+    height: 1000px;
+}
+
+.menu{
+    position: fixed;
+    width: 10%;
+    height: 600px;
+    background:  rgba(0, 170, 238, 0.5);
+}
+
+
+.footer{
+    width: 90%;
+    margin-right: 5%;
+    margin-left: 5%;
+    height: 15%;
+    background: darkgrey;
+    -webkit-border-top-right-radius: 10px;
+    -webkit-border-top-left-radius: 10px;
+}

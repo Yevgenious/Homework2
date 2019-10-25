@@ -1,0 +1,21 @@
+table{
+    height: 100px;
+    background:  white;
+    width: 100%;
+}
+
+.header{
+    background: orange;
+}
+  
+.content1{
+    background: yellow;
+}
+
+.content2{
+    background: blue;
+}
+
+.footer{
+    background: grey;
+}
