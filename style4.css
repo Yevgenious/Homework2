@@ -27,6 +27,10 @@ body{
     margin-left: 0%;
 }
 
+.text{
+    min-height: 850px;
+}
+
 .text #left{
     height:100%;
     width: 34%;
